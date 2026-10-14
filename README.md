@@ -1,2 +1,0 @@
-# Duelcore-Arenas
-DC ARENAS

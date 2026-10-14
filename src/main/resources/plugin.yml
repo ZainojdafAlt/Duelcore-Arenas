@@ -1,0 +1,13 @@
+name: ArenaMenu
+version: 1.0.0
+main: dev.arenamenu.ArenaMenu
+api-version: '26.2'
+description: Chest menu that teleports you into the DuelCore arenas.
+commands:
+  arenas:
+    description: Open the arena teleport menu
+    permission: arenamenu.use
+permissions:
+  arenamenu.use:
+    description: Use the arena menu
+    default: op
